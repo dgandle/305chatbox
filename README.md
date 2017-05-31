@@ -4,7 +4,10 @@
 Group Name: 305 Chat Box
 Group Members: Timothy Leonard, Doug Gandle, Ross Bohensky, Jeffrey Oladapo
 
+
 ---
+
+
 
 #### Purpose / Capabilities
 To interact with a conversation agent using Alexa for voice input and a neural network to produce the conversation.
