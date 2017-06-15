@@ -12,6 +12,8 @@ Group Members: Timothy Leonard, Doug Gandle, Ross Bohensky, Jeffrey Oladapo
 
 Paste `ps_recognizer.py` into a jupyter notebook and copy kws_thresh.txt into the directory where the notebook is launched.  Speak into your microphone the phrases included in `kws_thresh.txt`.
 
+[Download pocketsphinx here](https://pypi.python.org/pypi/pocketsphinx) 
+
 ### Keyword list threshold file
 
 The key word list does the work of limiting the vocabulary to only key phrases included in the list <b>AND</b> allows you to set the threshold for each phrase.  The keyword list with thresholds looks like this:
