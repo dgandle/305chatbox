@@ -8,14 +8,22 @@ Group Members: Timothy Leonard, Doug Gandle, Ross Bohensky, Jeffrey Oladapo
 ---
 
 
-#### Purpose / Capabilities
-To interact with a conversation agent using Alexa for voice input and a neural network to produce the conversation.
+## Using pocketsphinx to process live speech using keyword search
 
-#### Audience / User-base / Target Market
-Students looking to improve their vocabulary.
+Paste ps_recognizer.py into a jupyter notebook and copy kws_thresh.txt into the directory where the notebook is launched.  Speack into your microphone the phrases included in 'kws_thresh.txt'.
 
-#### Hardware / Software Required
-Neural network: Google Tensorflow, preferably run on an Nvidia GPU
-GUI: Vue.js and Bootstrap frameworks, HTML, CSS, JS
-Voice Interaction: Amazon Echo, Alexa API
-Database: Text files, AWS
+### Keyword list threshold file
+
+The key word list does the work of limiting the vocabulary to only key phrases included in the list <b>AND</b> allows you to set the threshold for each phrase.  The keyword list with thresholds looks like this:
+
+```
+does happy/1e-25/
+mean sad/1e-25/
+scratch that/1e-20/
+validate/1e-20/
+exit/1e+20/
+```
+
+You can change the phrases and the thresholds.  It is recommended that longer phrases like "does happy mean sad" are broken into shorter phrases.  You have to experiment with thresholds to find out what works.
+
+[Click for more on keyword lists](https://cmusphinx.github.io/wiki/tutoriallm/#keyword-lists)
