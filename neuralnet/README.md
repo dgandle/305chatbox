@@ -8,7 +8,7 @@ Group Members: Timothy Leonard, Doug Gandle, Ross Bohensky, Jeffrey Oladapo
 ---
 
 
-#### (Facebook bAbi tasks format](https://research.fb.com/downloads/babi/)
+#### [Facebook bAbi tasks format](https://research.fb.com/downloads/babi/)
 The file format for each task is as follows:
 
 ```
