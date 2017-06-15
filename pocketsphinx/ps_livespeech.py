@@ -1,31 +1,14 @@
-import os
-
 # you need to have pockect sphinx https://pypi.python.org/pypi/pocketsphinx
-#  
 # download this in your tensor flow environment if you want to use NN
-# 
 # run this in a jupyter notebook so you can interpret it on the fly
 
-from pocketsphinx import LiveSpeech, get_model_path
+import os
+from pocketsphinx import LiveSpeech
 
-model_path = get_model_path()
-
-# every thing commented out are defaults
-# the only thing that matters here is that lm=False
-# since this is a key word search
+# since this is a key word search the only thing that matters here is that lm=False
+# everything else is default
 # speech is the decoder
-speech = LiveSpeech(
-    #verbose=False,
-    #sampling_rate=16000,
-    #buffer_size=2048,
-    #no_search=False,
-    #full_utt=False,
-    #hmm=os.path.join(model_path, 'en-us'),
-    
-    lm=False, #####os.path.join(model_path, 'en-us.lm.bin'),
-    
-    #dic='3850.dic'#os.path.join(model_path, 'cmudict-en-us.dict')
-)
+speech = LiveSpeech(lm=False)
 
 # Here is where the decoder is set for key word search
 # Documentation: https://cmusphinx.github.io/wiki/tutoriallm/
