@@ -29,3 +29,5 @@ exit/1e+20/
 You can change the phrases and the thresholds.  It is recommended that longer phrases like "does happy mean sad" are broken into shorter phrases.  You have to experiment with thresholds to find out what works.
 
 [Click for more on keyword lists](https://cmusphinx.github.io/wiki/tutoriallm/#keyword-lists)
+
+#### [CMUSphinx](https://cmusphinx.github.io/)
