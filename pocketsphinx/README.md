@@ -10,7 +10,7 @@ Group Members: Timothy Leonard, Doug Gandle, Ross Bohensky, Jeffrey Oladapo
 
 ## Using pocketsphinx to process live speech using keyword search
 
-Paste ps_recognizer.py into a jupyter notebook and copy kws_thresh.txt into the directory where the notebook is launched.  Speack into your microphone the phrases included in 'kws_thresh.txt'.
+Paste 'ps_recognizer.py' into a jupyter notebook and copy kws_thresh.txt into the directory where the notebook is launched.  Speak into your microphone the phrases included in 'kws_thresh.txt'.
 
 ### Keyword list threshold file
 
