@@ -1,0 +1,5 @@
+does happy/1e-25/
+mean sad/1e-25/
+scratch that/1e-20/
+validate/1e-20/
+exit/1e+20/
