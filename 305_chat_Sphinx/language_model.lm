@@ -1,0 +1,158 @@
+language model created by quicklm on mon jun 19 15:21:52 edt 2017
+copyright (c) 1996-2010 carnegie mellon university and alexander i. rudnicky
+
+the model is in standard arpa format, designed by doug paul while he was at mitre.
+
+the code that was used to produce this language model is available in open source.
+please visit http://www.speech.cs.cmu.edu/tools/ for more information
+
+the (fixed) discount mass is 0.5. the backoffs are computed using the ratio method.
+this model based on a corpus of 34 sentences and 20 words
+
+\data\
+ngram 1=20
+ngram 2=50
+ngram 3=65
+
+\1-grams:
+-1.0574 </s> -0.3010
+-1.0574 <s> -0.1922
+-2.5888 cheeful -0.2977
+-1.4749 cheerful -0.1965
+-1.2086 does -0.1893
+-1.4427 happy -0.1965
+-1.1909 mean -0.2346
+-2.1117 means -0.2513
+-2.5888 no -0.2612
+-1.6857 not -0.2721
+-2.5888 question -0.2612
+-1.4427 sad -0.1922
+-2.5888 scratch -0.2999
+-2.5888 story -0.2612
+-2.5888 thank -0.2999
+-2.5888 that -0.2612
+-1.4427 unhappy -0.1922
+-2.2878 validate -0.2988
+-2.5888 yes -0.2612
+-2.5888 you -0.2612
+
+\2-grams:
+-1.8325 <s> cheeful 0.0000
+-1.3554 <s> cheerful -0.2478
+-0.7533 <s> does -0.1761
+-1.2304 <s> happy -0.1761
+-1.8325 <s> no 0.0000
+-1.2304 <s> sad -0.2341
+-1.8325 <s> scratch 0.0000
+-1.8325 <s> thank 0.0000
+-1.2304 <s> unhappy -0.2341
+-1.5315 <s> validate 0.0000
+-1.8325 <s> yes 0.0000
+-0.3010 cheeful means -0.2218
+-0.5699 cheerful </s> -0.3010
+-0.9379 cheerful does -0.1761
+-0.9379 cheerful mean -0.1072
+-1.2041 does cheerful -0.2478
+-1.2041 does happy -0.2341
+-1.0792 does mean 0.0000
+-0.7782 does not 0.0000
+-1.2041 does sad -0.2518
+-1.2041 does unhappy -0.2518
+-0.6021 happy </s> -0.3010
+-0.9700 happy does -0.1761
+-0.8451 happy mean -0.0934
+-0.8539 mean cheerful -0.1648
+-0.9208 mean happy -0.1761
+-0.9208 mean sad -0.1761
+-0.9208 mean unhappy -0.1761
+-0.7782 means happy -0.1761
+-0.7782 means sad -0.1761
+-0.7782 means unhappy -0.1761
+-0.3010 no </s> -0.3010
+-0.3010 not mean 0.0000
+-0.3010 question </s> -0.3010
+-0.6021 sad </s> -0.3010
+-0.9700 sad does -0.1761
+-0.9700 sad mean -0.0934
+-1.4472 sad means -0.2218
+-0.3010 scratch that 0.0000
+-0.3010 story </s> -0.3010
+-0.3010 thank you 0.0000
+-0.3010 that </s> -0.3010
+-0.6021 unhappy </s> -0.3010
+-0.9700 unhappy does -0.1761
+-0.9700 unhappy mean -0.0934
+-1.4472 unhappy means -0.2218
+-0.6021 validate question 0.0000
+-0.6021 validate story 0.0000
+-0.3010 yes </s> -0.3010
+-0.3010 you </s> -0.3010
+
+\3-grams:
+-0.3010 <s> cheeful means
+-0.3010 <s> cheerful does
+-0.9031 <s> does cheerful
+-0.9031 <s> does happy
+-0.9031 <s> does sad
+-0.9031 <s> does unhappy
+-0.4260 <s> happy does
+-0.9031 <s> happy mean
+-0.3010 <s> no </s>
+-0.4260 <s> sad does
+-0.9031 <s> sad means
+-0.3010 <s> scratch that
+-0.3010 <s> thank you
+-0.4260 <s> unhappy does
+-0.9031 <s> unhappy means
+-0.6021 <s> validate question
+-0.6021 <s> validate story
+-0.3010 <s> yes </s>
+-0.3010 cheeful means happy
+-0.7782 cheerful does mean
+-0.4771 cheerful does not
+-0.7782 cheerful mean happy
+-0.7782 cheerful mean sad
+-0.7782 cheerful mean unhappy
+-0.3010 does cheerful mean
+-0.3010 does happy mean
+-0.9031 does mean cheerful
+-0.9031 does mean happy
+-0.9031 does mean sad
+-0.9031 does mean unhappy
+-0.3010 does not mean
+-0.3010 does sad mean
+-0.3010 does unhappy mean
+-0.7782 happy does mean
+-0.4771 happy does not
+-0.6021 happy mean cheerful
+-0.9031 happy mean sad
+-0.9031 happy mean unhappy
+-0.3010 mean cheerful </s>
+-0.3010 mean happy </s>
+-0.3010 mean sad </s>
+-0.3010 mean unhappy </s>
+-0.3010 means happy </s>
+-0.3010 means sad </s>
+-0.3010 means unhappy </s>
+-0.9031 not mean cheerful
+-0.9031 not mean happy
+-0.9031 not mean sad
+-0.9031 not mean unhappy
+-0.7782 sad does mean
+-0.4771 sad does not
+-0.7782 sad mean cheerful
+-0.7782 sad mean happy
+-0.7782 sad mean unhappy
+-0.3010 sad means unhappy
+-0.3010 scratch that </s>
+-0.3010 thank you </s>
+-0.7782 unhappy does mean
+-0.4771 unhappy does not
+-0.7782 unhappy mean cheerful
+-0.7782 unhappy mean happy
+-0.7782 unhappy mean sad
+-0.3010 unhappy means sad
+-0.3010 validate question </s>
+-0.3010 validate story </s>
+
+\end\
