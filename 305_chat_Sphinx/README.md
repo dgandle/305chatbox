@@ -21,4 +21,4 @@ Group Members: Timothy Leonard, Doug Gandle, Ross Bohensky, Jeffrey Oladapo
 
 Training data for the neural net is in the [bAbi facebook dataset](https://research.fb.com/downloads/babi/) format.
 
-To add a language model and a dictionary for the speech recognizer edit `__init__.py` in `<b>speech recognizer</b>` and include the `.dic` and `.lm` file in `pocketsphinx-data\en-US`.
+To add a language model and a dictionary for the speech recognizer edit `__init__.py` in `speech recognizer` and include the `.dic` and `.lm` file in `pocketsphinx-data\en-US`.
