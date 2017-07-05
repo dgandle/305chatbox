@@ -1,0 +1,1088 @@
+1 happy does not mean sad.
+2 does sad mean happy?	no	0
+1 happy does not mean sad.
+2 does happy mean sad?	no	0
+1 sad does not mean happy.
+2 does sad mean happy?	no	0
+1 sad does not mean happy.
+2 does happy mean sad?	no	0
+1 happy does not mean unhappy.
+2 does unhappy mean happy?	no	0
+1 happy does not mean unhappy.
+2 does happy mean unhappy?	no	0
+1 unhappy does not mean happy.
+2 does unhappy mean happy?	no	0
+1 unhappy does not mean happy.
+2 does happy mean unhappy?	no	0
+1 cheerful does not mean sad.
+2 does sad mean cheerful?	no	0
+1 cheerful does not mean sad.
+2 does cheerful mean sad?	no	0
+1 sad does not mean cheerful.
+2 does sad mean cheerful?	no	0
+1 sad does not mean cheerful.
+2 does cheerful mean sad?	no	0
+1 cheerful does not mean unhappy.
+2 does unhappy mean cheerful?	no	0
+1 cheerful does not mean unhappy.
+2 does cheerful mean unhappy?	no	0
+1 unhappy does not mean cheerful.
+2 does unhappy mean cheerful?	no	0
+1 unhappy does not mean cheerful.
+2 does cheerful mean unhappy?	no	0
+1 happy does mean cheerful.
+2 does cheerful mean happy?	yes	0
+1 happy does mean cheerful.
+2 does happy mean cheerful?	yes	0
+1 cheerful does mean happy.
+2 does cheerful mean happy?	yes	0
+1 cheerful does mean happy.
+2 does happy mean cheerful?	yes	0
+1 sad does mean unhappy.
+2 does sad mean unhappy?	yes	0
+1 sad does mean unhappy.
+2 does unhappy mean sad?	yes	0
+1 unhappy does mean sad.
+2 does sad mean unhappy?	yes	0
+1 unhappy does mean sad.
+2 does unhappy mean sad?	yes	0
+1 happy means cheerful.
+2 does cheerful mean happy?	yes	0
+1 happy means cheerful.
+2 does happy mean cheerful?	yes	0
+1 cheerful means happy.
+2 does cheerful mean happy?	yes	0
+1 cheerful means happy.
+2 does happy mean cheerful?	yes	0
+1 sad means unhappy.
+2 does sad mean unhappy?	yes	0
+1 sad means unhappy.
+2 does unhappy mean sad?	yes	0
+1 unhappy means sad.
+2 does sad mean unhappy?	yes	0
+1 unhappy means sad.
+2 does unhappy mean sad?	yes	0
+1 happy does mean cheerful.
+2 does cheerful mean happy?	yes	0
+3 happy does not mean sad.
+4 does cheerful mean happy?	yes	0
+1 happy does mean cheerful.
+2 does happy mean cheerful?	yes	0
+3 happy does not mean sad.
+4 does cheerful mean happy?	yes	0
+1 happy does mean cheerful.
+2 does happy mean cheerful?	yes	0
+3 happy does not mean sad.
+4 does happy mean cheerful?	yes	0
+1 happy does mean cheerful.
+2 does cheerful mean happy?	yes	0
+3 happy does not mean sad.
+4 does happy mean cheerful?	yes	0
+1 cheerful does mean happy.
+2 does cheerful mean happy?	yes	0
+3 happy does not mean sad.
+4 does cheerful mean happy?	yes	0
+1 cheerful does mean happy.
+2 does happy mean cheerful?	yes	0
+3 happy does not mean sad.
+4 does cheerful mean happy?	yes	0
+1 cheerful does mean happy.
+2 does happy mean cheerful?	yes	0
+3 happy does not mean sad.
+4 does happy mean cheerful?	yes	0
+1 cheerful does mean happy.
+2 does cheerful mean happy?	yes	0
+3 happy does not mean sad.
+4 does happy mean cheerful?	yes	0
+1 happy does mean cheerful.
+2 does cheerful mean happy?	yes	0
+3 sad does not mean happy.
+4 does cheerful mean happy?	yes	0
+1 happy does mean cheerful.
+2 does happy mean cheerful?	yes	0
+3 sad does not mean happy.
+4 does cheerful mean happy?	yes	0
+1 happy does mean cheerful.
+2 does happy mean cheerful?	yes	0
+3 sad does not mean happy.
+4 does happy mean cheerful?	yes	0
+1 happy does mean cheerful.
+2 does cheerful mean happy?	yes	0
+3 sad does not mean happy.
+4 does happy mean cheerful?	yes	0
+1 cheerful does mean happy.
+2 does cheerful mean happy?	yes	0
+3 sad does not mean happy.
+4 does cheerful mean happy?	yes	0
+1 cheerful does mean happy.
+2 does happy mean cheerful?	yes	0
+3 sad does not mean happy.
+4 does cheerful mean happy?	yes	0
+1 cheerful does mean happy.
+2 does happy mean cheerful?	yes	0
+3 sad does not mean happy.
+4 does happy mean cheerful?	yes	0
+1 cheerful does mean happy.
+2 does cheerful mean happy?	yes	0
+3 sad does not mean happy.
+4 does happy mean cheerful?	yes	0
+1 happy does mean cheerful.
+2 does cheerful mean happy?	yes	0
+3 happy does not mean sad.
+4 does happy mean sad?	no	0
+1 happy does mean cheerful.
+2 does happy mean cheerful?	yes	0
+3 happy does not mean sad.
+4 does happy mean sad?	no	0
+1 happy does mean cheerful.
+2 does happy mean cheerful?	yes	0
+3 happy does not mean sad.
+4 does sad mean happy?	no	0
+1 happy does mean cheerful.
+2 does cheerful mean happy?	yes	0
+3 happy does not mean sad.
+4 does sad mean happy?	no	0
+1 cheerful does mean happy.
+2 does cheerful mean happy?	yes	0
+3 happy does not mean sad.
+4 does happy mean sad?	no	0
+1 cheerful does mean happy.
+2 does happy mean cheerful?	yes	0
+3 happy does not mean sad.
+4 does happy mean sad?	no	0
+1 cheerful does mean happy.
+2 does happy mean cheerful?	yes	0
+3 happy does not mean sad.
+4 does sad mean happy?	no	0
+1 cheerful does mean happy.
+2 does cheerful mean happy?	yes	0
+3 happy does not mean sad.
+4 does sad mean happy?	no	0
+1 happy does mean cheerful.
+2 does cheerful mean happy?	yes	0
+3 sad does not mean happy.
+4 does happy mean sad?	no	0
+1 happy does mean cheerful.
+2 does happy mean cheerful?	yes	0
+3 sad does not mean happy.
+4 does happy mean sad?	no	0
+1 happy does mean cheerful.
+2 does happy mean cheerful?	yes	0
+3 sad does not mean happy.
+4 does sad mean happy?	no	0
+1 happy does mean cheerful.
+2 does cheerful mean happy?	yes	0
+3 sad does not mean happy.
+4 does sad mean happy?	no	0
+1 cheerful does mean happy.
+2 does cheerful mean happy?	yes	0
+3 sad does not mean happy.
+4 does happy mean sad?	no	0
+1 cheerful does mean happy.
+2 does happy mean cheerful?	yes	0
+3 sad does not mean happy.
+4 does happy mean sad?	no	0
+1 cheerful does mean happy.
+2 does happy mean cheerful?	yes	0
+3 sad does not mean happy.
+4 does sad mean happy?	no	0
+1 cheerful does mean happy.
+2 does cheerful mean happy?	yes	0
+3 sad does not mean happy.
+4 does sad mean happy?	no	0
+1 happy does mean cheerful.
+2 does cheerful mean happy?	yes	0
+3 happy does not mean unhappy.
+4 does cheerful mean happy?	yes	0
+1 happy does mean cheerful.
+2 does happy mean cheerful?	yes	0
+3 happy does not mean unhappy.
+4 does cheerful mean happy?	yes	0
+1 happy does mean cheerful.
+2 does happy mean cheerful?	yes	0
+3 happy does not mean unhappy.
+4 does happy mean cheerful?	yes	0
+1 happy does mean cheerful.
+2 does cheerful mean happy?	yes	0
+3 happy does not mean unhappy.
+4 does happy mean cheerful?	yes	0
+1 cheerful does mean happy.
+2 does cheerful mean happy?	yes	0
+3 happy does not mean unhappy.
+4 does cheerful mean happy?	yes	0
+1 cheerful does mean happy.
+2 does happy mean cheerful?	yes	0
+3 happy does not mean unhappy.
+4 does cheerful mean happy?	yes	0
+1 cheerful does mean happy.
+2 does happy mean cheerful?	yes	0
+3 happy does not mean unhappy.
+4 does happy mean cheerful?	yes	0
+1 cheerful does mean happy.
+2 does cheerful mean happy?	yes	0
+3 happy does not mean unhappy.
+4 does happy mean cheerful?	yes	0
+1 happy does mean cheerful.
+2 does cheerful mean happy?	yes	0
+3 unhappy does not mean happy.
+4 does cheerful mean happy?	yes	0
+1 happy does mean cheerful.
+2 does happy mean cheerful?	yes	0
+3 unhappy does not mean happy.
+4 does cheerful mean happy?	yes	0
+1 happy does mean cheerful.
+2 does happy mean cheerful?	yes	0
+3 unhappy does not mean happy.
+4 does happy mean cheerful?	yes	0
+1 happy does mean cheerful.
+2 does cheerful mean happy?	yes	0
+3 unhappy does not mean happy.
+4 does happy mean cheerful?	yes	0
+1 cheerful does mean happy.
+2 does cheerful mean happy?	yes	0
+3 unhappy does not mean happy.
+4 does cheerful mean happy?	yes	0
+1 cheerful does mean happy.
+2 does happy mean cheerful?	yes	0
+3 unhappy does not mean happy.
+4 does cheerful mean happy?	yes	0
+1 cheerful does mean happy.
+2 does happy mean cheerful?	yes	0
+3 unhappy does not mean happy.
+4 does happy mean cheerful?	yes	0
+1 cheerful does mean happy.
+2 does cheerful mean happy?	yes	0
+3 unhappy does not mean happy.
+4 does happy mean cheerful?	yes	0
+1 happy does mean cheerful.
+2 does cheerful mean happy?	yes	0
+3 happy does not mean unhappy.
+4 does happy mean unhappy?	no	0
+1 happy does mean cheerful.
+2 does happy mean cheerful?	yes	0
+3 happy does not mean unhappy.
+4 does happy mean unhappy?	no	0
+1 happy does mean cheerful.
+2 does happy mean cheerful?	yes	0
+3 happy does not mean unhappy.
+4 does unhappy mean happy?	no	0
+1 happy does mean cheerful.
+2 does cheerful mean happy?	yes	0
+3 happy does not mean unhappy.
+4 does unhappy mean happy?	no	0
+1 cheerful does mean happy.
+2 does cheerful mean happy?	yes	0
+3 happy does not mean unhappy.
+4 does happy mean unhappy?	no	0
+1 cheerful does mean happy.
+2 does happy mean cheerful?	yes	0
+3 happy does not mean unhappy.
+4 does happy mean unhappy?	no	0
+1 cheerful does mean happy.
+2 does happy mean cheerful?	yes	0
+3 happy does not mean unhappy.
+4 does unhappy mean happy?	no	0
+1 cheerful does mean happy.
+2 does cheerful mean happy?	yes	0
+3 happy does not mean unhappy.
+4 does unhappy mean happy?	no	0
+1 happy does mean cheerful.
+2 does cheerful mean happy?	yes	0
+3 unhappy does not mean happy.
+4 does happy mean unhappy?	no	0
+1 happy does mean cheerful.
+2 does happy mean cheerful?	yes	0
+3 unhappy does not mean happy.
+4 does happy mean unhappy?	no	0
+1 happy does mean cheerful.
+2 does happy mean cheerful?	yes	0
+3 unhappy does not mean happy.
+4 does unhappy mean happy?	no	0
+1 happy does mean cheerful.
+2 does cheerful mean happy?	yes	0
+3 unhappy does not mean happy.
+4 does unhappy mean happy?	no	0
+1 cheerful does mean happy.
+2 does cheerful mean happy?	yes	0
+3 unhappy does not mean happy.
+4 does happy mean unhappy?	no	0
+1 cheerful does mean happy.
+2 does happy mean cheerful?	yes	0
+3 unhappy does not mean happy.
+4 does happy mean unhappy?	no	0
+1 cheerful does mean happy.
+2 does happy mean cheerful?	yes	0
+3 unhappy does not mean happy.
+4 does unhappy mean happy?	no	0
+1 cheerful does mean happy.
+2 does cheerful mean happy?	yes	0
+3 unhappy does not mean happy.
+4 does unhappy mean happy?	no	0
+1 sad does mean unhappy.
+2 does unhappy mean sad?	yes	0
+3 sad does not mean happy.
+4 does unhappy mean sad?	yes	0
+1 sad does mean unhappy.
+2 does sad mean unhappy?	yes	0
+3 sad does not mean happy.
+4 does unhappy mean sad?	yes	0
+1 sad does mean unhappy.
+2 does sad mean unhappy?	yes	0
+3 sad does not mean happy.
+4 does sad mean unhappy?	yes	0
+1 sad does mean unhappy.
+2 does unhappy mean sad?	yes	0
+3 sad does not mean happy.
+4 does sad mean unhappy?	yes	0
+1 unhappy does mean sad.
+2 does unhappy mean sad?	yes	0
+3 sad does not mean happy.
+4 does unhappy mean sad?	yes	0
+1 unhappy does mean sad.
+2 does sad mean unhappy?	yes	0
+3 sad does not mean happy.
+4 does unhappy mean sad?	yes	0
+1 unhappy does mean sad.
+2 does sad mean unhappy?	yes	0
+3 sad does not mean happy.
+4 does sad mean unhappy?	yes	0
+1 unhappy does mean sad.
+2 does unhappy mean sad?	yes	0
+3 sad does not mean happy.
+4 does sad mean unhappy?	yes	0
+1 sad does mean unhappy.
+2 does unhappy mean sad?	yes	0
+3 happy does not mean sad.
+4 does unhappy mean sad?	yes	0
+1 sad does mean unhappy.
+2 does sad mean unhappy?	yes	0
+3 happy does not mean sad.
+4 does unhappy mean sad?	yes	0
+1 sad does mean unhappy.
+2 does sad mean unhappy?	yes	0
+3 happy does not mean sad.
+4 does sad mean unhappy?	yes	0
+1 sad does mean unhappy.
+2 does unhappy mean sad?	yes	0
+3 happy does not mean sad.
+4 does sad mean unhappy?	yes	0
+1 unhappy does mean sad.
+2 does unhappy mean sad?	yes	0
+3 happy does not mean sad.
+4 does unhappy mean sad?	yes	0
+1 unhappy does mean sad.
+2 does sad mean unhappy?	yes	0
+3 happy does not mean sad.
+4 does unhappy mean sad?	yes	0
+1 unhappy does mean sad.
+2 does sad mean unhappy?	yes	0
+3 happy does not mean sad.
+4 does sad mean unhappy?	yes	0
+1 unhappy does mean sad.
+2 does unhappy mean sad?	yes	0
+3 happy does not mean sad.
+4 does sad mean unhappy?	yes	0
+1 sad does mean unhappy.
+2 does unhappy mean sad?	yes	0
+3 sad does not mean happy.
+4 does sad mean happy?	no	0
+1 sad does mean unhappy.
+2 does sad mean unhappy?	yes	0
+3 sad does not mean happy.
+4 does sad mean happy?	no	0
+1 sad does mean unhappy.
+2 does sad mean unhappy?	yes	0
+3 sad does not mean happy.
+4 does happy mean sad?	no	0
+1 sad does mean unhappy.
+2 does unhappy mean sad?	yes	0
+3 sad does not mean happy.
+4 does happy mean sad?	no	0
+1 unhappy does mean sad.
+2 does unhappy mean sad?	yes	0
+3 sad does not mean happy.
+4 does sad mean happy?	no	0
+1 unhappy does mean sad.
+2 does sad mean unhappy?	yes	0
+3 sad does not mean happy.
+4 does sad mean happy?	no	0
+1 unhappy does mean sad.
+2 does sad mean unhappy?	yes	0
+3 sad does not mean happy.
+4 does happy mean sad?	no	0
+1 unhappy does mean sad.
+2 does unhappy mean sad?	yes	0
+3 sad does not mean happy.
+4 does happy mean sad?	no	0
+1 sad does mean unhappy.
+2 does unhappy mean sad?	yes	0
+3 happy does not mean sad.
+4 does sad mean happy?	no	0
+1 sad does mean unhappy.
+2 does sad mean unhappy?	yes	0
+3 happy does not mean sad.
+4 does sad mean happy?	no	0
+1 sad does mean unhappy.
+2 does sad mean unhappy?	yes	0
+3 happy does not mean sad.
+4 does happy mean sad?	no	0
+1 sad does mean unhappy.
+2 does unhappy mean sad?	yes	0
+3 happy does not mean sad.
+4 does happy mean sad?	no	0
+1 unhappy does mean sad.
+2 does unhappy mean sad?	yes	0
+3 happy does not mean sad.
+4 does sad mean happy?	no	0
+1 unhappy does mean sad.
+2 does sad mean unhappy?	yes	0
+3 happy does not mean sad.
+4 does sad mean happy?	no	0
+1 unhappy does mean sad.
+2 does sad mean unhappy?	yes	0
+3 happy does not mean sad.
+4 does happy mean sad?	no	0
+1 unhappy does mean sad.
+2 does unhappy mean sad?	yes	0
+3 happy does not mean sad.
+4 does happy mean sad?	no	0
+1 sad does mean unhappy.
+2 does unhappy mean sad?	yes	0
+3 sad does not mean cheerful.
+4 does unhappy mean sad?	yes	0
+1 sad does mean unhappy.
+2 does sad mean unhappy?	yes	0
+3 sad does not mean cheerful.
+4 does unhappy mean sad?	yes	0
+1 sad does mean unhappy.
+2 does sad mean unhappy?	yes	0
+3 sad does not mean cheerful.
+4 does sad mean unhappy?	yes	0
+1 sad does mean unhappy.
+2 does unhappy mean sad?	yes	0
+3 sad does not mean cheerful.
+4 does sad mean unhappy?	yes	0
+1 unhappy does mean sad.
+2 does unhappy mean sad?	yes	0
+3 sad does not mean cheerful.
+4 does unhappy mean sad?	yes	0
+1 unhappy does mean sad.
+2 does sad mean unhappy?	yes	0
+3 sad does not mean cheerful.
+4 does unhappy mean sad?	yes	0
+1 unhappy does mean sad.
+2 does sad mean unhappy?	yes	0
+3 sad does not mean cheerful.
+4 does sad mean unhappy?	yes	0
+1 unhappy does mean sad.
+2 does unhappy mean sad?	yes	0
+3 sad does not mean cheerful.
+4 does sad mean unhappy?	yes	0
+1 sad does mean unhappy.
+2 does unhappy mean sad?	yes	0
+3 cheerful does not mean sad.
+4 does unhappy mean sad?	yes	0
+1 sad does mean unhappy.
+2 does sad mean unhappy?	yes	0
+3 cheerful does not mean sad.
+4 does unhappy mean sad?	yes	0
+1 sad does mean unhappy.
+2 does sad mean unhappy?	yes	0
+3 cheerful does not mean sad.
+4 does sad mean unhappy?	yes	0
+1 sad does mean unhappy.
+2 does unhappy mean sad?	yes	0
+3 cheerful does not mean sad.
+4 does sad mean unhappy?	yes	0
+1 unhappy does mean sad.
+2 does unhappy mean sad?	yes	0
+3 cheerful does not mean sad.
+4 does unhappy mean sad?	yes	0
+1 unhappy does mean sad.
+2 does sad mean unhappy?	yes	0
+3 cheerful does not mean sad.
+4 does unhappy mean sad?	yes	0
+1 unhappy does mean sad.
+2 does sad mean unhappy?	yes	0
+3 cheerful does not mean sad.
+4 does sad mean unhappy?	yes	0
+1 unhappy does mean sad.
+2 does unhappy mean sad?	yes	0
+3 cheerful does not mean sad.
+4 does sad mean unhappy?	yes	0
+1 sad does mean unhappy.
+2 does unhappy mean sad?	yes	0
+3 sad does not mean cheerful.
+4 does sad mean cheerful?	no	0
+1 sad does mean unhappy.
+2 does sad mean unhappy?	yes	0
+3 sad does not mean cheerful.
+4 does sad mean cheerful?	no	0
+1 sad does mean unhappy.
+2 does sad mean unhappy?	yes	0
+3 sad does not mean cheerful.
+4 does cheerful mean sad?	no	0
+1 sad does mean unhappy.
+2 does unhappy mean sad?	yes	0
+3 sad does not mean cheerful.
+4 does cheerful mean sad?	no	0
+1 unhappy does mean sad.
+2 does unhappy mean sad?	yes	0
+3 sad does not mean cheerful.
+4 does sad mean cheerful?	no	0
+1 unhappy does mean sad.
+2 does sad mean unhappy?	yes	0
+3 sad does not mean cheerful.
+4 does sad mean cheerful?	no	0
+1 unhappy does mean sad.
+2 does sad mean unhappy?	yes	0
+3 sad does not mean cheerful.
+4 does cheerful mean sad?	no	0
+1 unhappy does mean sad.
+2 does unhappy mean sad?	yes	0
+3 sad does not mean cheerful.
+4 does cheerful mean sad?	no	0
+1 sad does mean unhappy.
+2 does unhappy mean sad?	yes	0
+3 cheerful does not mean sad.
+4 does sad mean cheerful?	no	0
+1 sad does mean unhappy.
+2 does sad mean unhappy?	yes	0
+3 cheerful does not mean sad.
+4 does sad mean cheerful?	no	0
+1 sad does mean unhappy.
+2 does sad mean unhappy?	yes	0
+3 cheerful does not mean sad.
+4 does cheerful mean sad?	no	0
+1 sad does mean unhappy.
+2 does unhappy mean sad?	yes	0
+3 cheerful does not mean sad.
+4 does cheerful mean sad?	no	0
+1 unhappy does mean sad.
+2 does unhappy mean sad?	yes	0
+3 cheerful does not mean sad.
+4 does sad mean cheerful?	no	0
+1 unhappy does mean sad.
+2 does sad mean unhappy?	yes	0
+3 cheerful does not mean sad.
+4 does sad mean cheerful?	no	0
+1 unhappy does mean sad.
+2 does sad mean unhappy?	yes	0
+3 cheerful does not mean sad.
+4 does cheerful mean sad?	no	0
+1 unhappy does mean sad.
+2 does unhappy mean sad?	yes	0
+3 cheerful does not mean sad.
+4 does cheerful mean sad?	no	0
+1 happy means cheerful.
+2 does cheerful mean happy?	yes	0
+3 happy does not mean sad.
+4 does cheerful mean happy?	yes	0
+1 happy means cheerful.
+2 does happy mean cheerful?	yes	0
+3 happy does not mean sad.
+4 does cheerful mean happy?	yes	0
+1 happy means cheerful.
+2 does happy mean cheerful?	yes	0
+3 happy does not mean sad.
+4 does happy mean cheerful?	yes	0
+1 happy means cheerful.
+2 does cheerful mean happy?	yes	0
+3 happy does not mean sad.
+4 does happy mean cheerful?	yes	0
+1 cheerful means happy.
+2 does cheerful mean happy?	yes	0
+3 happy does not mean sad.
+4 does cheerful mean happy?	yes	0
+1 cheerful means happy.
+2 does happy mean cheerful?	yes	0
+3 happy does not mean sad.
+4 does cheerful mean happy?	yes	0
+1 cheerful means happy.
+2 does happy mean cheerful?	yes	0
+3 happy does not mean sad.
+4 does happy mean cheerful?	yes	0
+1 cheerful means happy.
+2 does cheerful mean happy?	yes	0
+3 happy does not mean sad.
+4 does happy mean cheerful?	yes	0
+1 happy means cheerful.
+2 does cheerful mean happy?	yes	0
+3 sad does not mean happy.
+4 does cheerful mean happy?	yes	0
+1 happy means cheerful.
+2 does happy mean cheerful?	yes	0
+3 sad does not mean happy.
+4 does cheerful mean happy?	yes	0
+1 happy means cheerful.
+2 does happy mean cheerful?	yes	0
+3 sad does not mean happy.
+4 does happy mean cheerful?	yes	0
+1 happy means cheerful.
+2 does cheerful mean happy?	yes	0
+3 sad does not mean happy.
+4 does happy mean cheerful?	yes	0
+1 cheerful means happy.
+2 does cheerful mean happy?	yes	0
+3 sad does not mean happy.
+4 does cheerful mean happy?	yes	0
+1 cheerful means happy.
+2 does happy mean cheerful?	yes	0
+3 sad does not mean happy.
+4 does cheerful mean happy?	yes	0
+1 cheerful means happy.
+2 does happy mean cheerful?	yes	0
+3 sad does not mean happy.
+4 does happy mean cheerful?	yes	0
+1 cheerful means happy.
+2 does cheerful mean happy?	yes	0
+3 sad does not mean happy.
+4 does happy mean cheerful?	yes	0
+1 happy means cheerful.
+2 does cheerful mean happy?	yes	0
+3 happy does not mean sad.
+4 does happy mean sad?	no	0
+1 happy means cheerful.
+2 does happy mean cheerful?	yes	0
+3 happy does not mean sad.
+4 does happy mean sad?	no	0
+1 happy means cheerful.
+2 does happy mean cheerful?	yes	0
+3 happy does not mean sad.
+4 does sad mean happy?	no	0
+1 happy means cheerful.
+2 does cheerful mean happy?	yes	0
+3 happy does not mean sad.
+4 does sad mean happy?	no	0
+1 cheerful means happy.
+2 does cheerful mean happy?	yes	0
+3 happy does not mean sad.
+4 does happy mean sad?	no	0
+1 cheerful means happy.
+2 does happy mean cheerful?	yes	0
+3 happy does not mean sad.
+4 does happy mean sad?	no	0
+1 cheerful means happy.
+2 does happy mean cheerful?	yes	0
+3 happy does not mean sad.
+4 does sad mean happy?	no	0
+1 cheerful means happy.
+2 does cheerful mean happy?	yes	0
+3 happy does not mean sad.
+4 does sad mean happy?	no	0
+1 happy means cheerful.
+2 does cheerful mean happy?	yes	0
+3 sad does not mean happy.
+4 does happy mean sad?	no	0
+1 happy means cheerful.
+2 does happy mean cheerful?	yes	0
+3 sad does not mean happy.
+4 does happy mean sad?	no	0
+1 happy means cheerful.
+2 does happy mean cheerful?	yes	0
+3 sad does not mean happy.
+4 does sad mean happy?	no	0
+1 happy means cheerful.
+2 does cheerful mean happy?	yes	0
+3 sad does not mean happy.
+4 does sad mean happy?	no	0
+1 cheerful means happy.
+2 does cheerful mean happy?	yes	0
+3 sad does not mean happy.
+4 does happy mean sad?	no	0
+1 cheerful means happy.
+2 does happy mean cheerful?	yes	0
+3 sad does not mean happy.
+4 does happy mean sad?	no	0
+1 cheerful means happy.
+2 does happy mean cheerful?	yes	0
+3 sad does not mean happy.
+4 does sad mean happy?	no	0
+1 cheerful means happy.
+2 does cheerful mean happy?	yes	0
+3 sad does not mean happy.
+4 does sad mean happy?	no	0
+1 happy means cheerful.
+2 does cheerful mean happy?	yes	0
+3 happy does not mean unhappy.
+4 does cheerful mean happy?	yes	0
+1 happy means cheerful.
+2 does happy mean cheerful?	yes	0
+3 happy does not mean unhappy.
+4 does cheerful mean happy?	yes	0
+1 happy means cheerful.
+2 does happy mean cheerful?	yes	0
+3 happy does not mean unhappy.
+4 does happy mean cheerful?	yes	0
+1 happy means cheerful.
+2 does cheerful mean happy?	yes	0
+3 happy does not mean unhappy.
+4 does happy mean cheerful?	yes	0
+1 cheerful means happy.
+2 does cheerful mean happy?	yes	0
+3 happy does not mean unhappy.
+4 does cheerful mean happy?	yes	0
+1 cheerful means happy.
+2 does happy mean cheerful?	yes	0
+3 happy does not mean unhappy.
+4 does cheerful mean happy?	yes	0
+1 cheerful means happy.
+2 does happy mean cheerful?	yes	0
+3 happy does not mean unhappy.
+4 does happy mean cheerful?	yes	0
+1 cheerful means happy.
+2 does cheerful mean happy?	yes	0
+3 happy does not mean unhappy.
+4 does happy mean cheerful?	yes	0
+1 happy means cheerful.
+2 does cheerful mean happy?	yes	0
+3 unhappy does not mean happy.
+4 does cheerful mean happy?	yes	0
+1 happy means cheerful.
+2 does happy mean cheerful?	yes	0
+3 unhappy does not mean happy.
+4 does cheerful mean happy?	yes	0
+1 happy means cheerful.
+2 does happy mean cheerful?	yes	0
+3 unhappy does not mean happy.
+4 does happy mean cheerful?	yes	0
+1 happy means cheerful.
+2 does cheerful mean happy?	yes	0
+3 unhappy does not mean happy.
+4 does happy mean cheerful?	yes	0
+1 cheerful means happy.
+2 does cheerful mean happy?	yes	0
+3 unhappy does not mean happy.
+4 does cheerful mean happy?	yes	0
+1 cheerful means happy.
+2 does happy mean cheerful?	yes	0
+3 unhappy does not mean happy.
+4 does cheerful mean happy?	yes	0
+1 cheerful means happy.
+2 does happy mean cheerful?	yes	0
+3 unhappy does not mean happy.
+4 does happy mean cheerful?	yes	0
+1 cheerful means happy.
+2 does cheerful mean happy?	yes	0
+3 unhappy does not mean happy.
+4 does happy mean cheerful?	yes	0
+1 happy means cheerful.
+2 does cheerful mean happy?	yes	0
+3 happy does not mean unhappy.
+4 does happy mean unhappy?	no	0
+1 happy means cheerful.
+2 does happy mean cheerful?	yes	0
+3 happy does not mean unhappy.
+4 does happy mean unhappy?	no	0
+1 happy means cheerful.
+2 does happy mean cheerful?	yes	0
+3 happy does not mean unhappy.
+4 does unhappy mean happy?	no	0
+1 happy means cheerful.
+2 does cheerful mean happy?	yes	0
+3 happy does not mean unhappy.
+4 does unhappy mean happy?	no	0
+1 cheerful means happy.
+2 does cheerful mean happy?	yes	0
+3 happy does not mean unhappy.
+4 does happy mean unhappy?	no	0
+1 cheerful means happy.
+2 does happy mean cheerful?	yes	0
+3 happy does not mean unhappy.
+4 does happy mean unhappy?	no	0
+1 cheerful means happy.
+2 does happy mean cheerful?	yes	0
+3 happy does not mean unhappy.
+4 does unhappy mean happy?	no	0
+1 cheerful means happy.
+2 does cheerful mean happy?	yes	0
+3 happy does not mean unhappy.
+4 does unhappy mean happy?	no	0
+1 happy means cheerful.
+2 does cheerful mean happy?	yes	0
+3 unhappy does not mean happy.
+4 does happy mean unhappy?	no	0
+1 happy means cheerful.
+2 does happy mean cheerful?	yes	0
+3 unhappy does not mean happy.
+4 does happy mean unhappy?	no	0
+1 happy means cheerful.
+2 does happy mean cheerful?	yes	0
+3 unhappy does not mean happy.
+4 does unhappy mean happy?	no	0
+1 happy means cheerful.
+2 does cheerful mean happy?	yes	0
+3 unhappy does not mean happy.
+4 does unhappy mean happy?	no	0
+1 cheerful means happy.
+2 does cheerful mean happy?	yes	0
+3 unhappy does not mean happy.
+4 does happy mean unhappy?	no	0
+1 cheerful means happy.
+2 does happy mean cheerful?	yes	0
+3 unhappy does not mean happy.
+4 does happy mean unhappy?	no	0
+1 cheerful means happy.
+2 does happy mean cheerful?	yes	0
+3 unhappy does not mean happy.
+4 does unhappy mean happy?	no	0
+1 cheerful means happy.
+2 does cheerful mean happy?	yes	0
+3 unhappy does not mean happy.
+4 does unhappy mean happy?	no	0
+1 sad means unhappy.
+2 does unhappy mean sad?	yes	0
+3 sad does not mean happy.
+4 does unhappy mean sad?	yes	0
+1 sad means unhappy.
+2 does sad mean unhappy?	yes	0
+3 sad does not mean happy.
+4 does unhappy mean sad?	yes	0
+1 sad means unhappy.
+2 does sad mean unhappy?	yes	0
+3 sad does not mean happy.
+4 does sad mean unhappy?	yes	0
+1 sad means unhappy.
+2 does unhappy mean sad?	yes	0
+3 sad does not mean happy.
+4 does sad mean unhappy?	yes	0
+1 unhappy means sad.
+2 does unhappy mean sad?	yes	0
+3 sad does not mean happy.
+4 does unhappy mean sad?	yes	0
+1 unhappy means sad.
+2 does sad mean unhappy?	yes	0
+3 sad does not mean happy.
+4 does unhappy mean sad?	yes	0
+1 unhappy means sad.
+2 does sad mean unhappy?	yes	0
+3 sad does not mean happy.
+4 does sad mean unhappy?	yes	0
+1 unhappy means sad.
+2 does unhappy mean sad?	yes	0
+3 sad does not mean happy.
+4 does sad mean unhappy?	yes	0
+1 sad means unhappy.
+2 does unhappy mean sad?	yes	0
+3 happy does not mean sad.
+4 does unhappy mean sad?	yes	0
+1 sad means unhappy.
+2 does sad mean unhappy?	yes	0
+3 happy does not mean sad.
+4 does unhappy mean sad?	yes	0
+1 sad means unhappy.
+2 does sad mean unhappy?	yes	0
+3 happy does not mean sad.
+4 does sad mean unhappy?	yes	0
+1 sad means unhappy.
+2 does unhappy mean sad?	yes	0
+3 happy does not mean sad.
+4 does sad mean unhappy?	yes	0
+1 unhappy means sad.
+2 does unhappy mean sad?	yes	0
+3 happy does not mean sad.
+4 does unhappy mean sad?	yes	0
+1 unhappy means sad.
+2 does sad mean unhappy?	yes	0
+3 happy does not mean sad.
+4 does unhappy mean sad?	yes	0
+1 unhappy means sad.
+2 does sad mean unhappy?	yes	0
+3 happy does not mean sad.
+4 does sad mean unhappy?	yes	0
+1 unhappy means sad.
+2 does unhappy mean sad?	yes	0
+3 happy does not mean sad.
+4 does sad mean unhappy?	yes	0
+1 sad means unhappy.
+2 does unhappy mean sad?	yes	0
+3 sad does not mean happy.
+4 does sad mean happy?	no	0
+1 sad means unhappy.
+2 does sad mean unhappy?	yes	0
+3 sad does not mean happy.
+4 does sad mean happy?	no	0
+1 sad means unhappy.
+2 does sad mean unhappy?	yes	0
+3 sad does not mean happy.
+4 does happy mean sad?	no	0
+1 sad means unhappy.
+2 does unhappy mean sad?	yes	0
+3 sad does not mean happy.
+4 does happy mean sad?	no	0
+1 unhappy means sad.
+2 does unhappy mean sad?	yes	0
+3 sad does not mean happy.
+4 does sad mean happy?	no	0
+1 unhappy means sad.
+2 does sad mean unhappy?	yes	0
+3 sad does not mean happy.
+4 does sad mean happy?	no	0
+1 unhappy means sad.
+2 does sad mean unhappy?	yes	0
+3 sad does not mean happy.
+4 does happy mean sad?	no	0
+1 unhappy means sad.
+2 does unhappy mean sad?	yes	0
+3 sad does not mean happy.
+4 does happy mean sad?	no	0
+1 sad means unhappy.
+2 does unhappy mean sad?	yes	0
+3 happy does not mean sad.
+4 does sad mean happy?	no	0
+1 sad means unhappy.
+2 does sad mean unhappy?	yes	0
+3 happy does not mean sad.
+4 does sad mean happy?	no	0
+1 sad means unhappy.
+2 does sad mean unhappy?	yes	0
+3 happy does not mean sad.
+4 does happy mean sad?	no	0
+1 sad means unhappy.
+2 does unhappy mean sad?	yes	0
+3 happy does not mean sad.
+4 does happy mean sad?	no	0
+1 unhappy means sad.
+2 does unhappy mean sad?	yes	0
+3 happy does not mean sad.
+4 does sad mean happy?	no	0
+1 unhappy means sad.
+2 does sad mean unhappy?	yes	0
+3 happy does not mean sad.
+4 does sad mean happy?	no	0
+1 unhappy means sad.
+2 does sad mean unhappy?	yes	0
+3 happy does not mean sad.
+4 does happy mean sad?	no	0
+1 unhappy means sad.
+2 does unhappy mean sad?	yes	0
+3 happy does not mean sad.
+4 does happy mean sad?	no	0
+1 sad means unhappy.
+2 does unhappy mean sad?	yes	0
+3 sad does not mean cheerful.
+4 does unhappy mean sad?	yes	0
+1 sad means unhappy.
+2 does sad mean unhappy?	yes	0
+3 sad does not mean cheerful.
+4 does unhappy mean sad?	yes	0
+1 sad means unhappy.
+2 does sad mean unhappy?	yes	0
+3 sad does not mean cheerful.
+4 does sad mean unhappy?	yes	0
+1 sad means unhappy.
+2 does unhappy mean sad?	yes	0
+3 sad does not mean cheerful.
+4 does sad mean unhappy?	yes	0
+1 unhappy means sad.
+2 does unhappy mean sad?	yes	0
+3 sad does not mean cheerful.
+4 does unhappy mean sad?	yes	0
+1 unhappy means sad.
+2 does sad mean unhappy?	yes	0
+3 sad does not mean cheerful.
+4 does unhappy mean sad?	yes	0
+1 unhappy means sad.
+2 does sad mean unhappy?	yes	0
+3 sad does not mean cheerful.
+4 does sad mean unhappy?	yes	0
+1 unhappy means sad.
+2 does unhappy mean sad?	yes	0
+3 sad does not mean cheerful.
+4 does sad mean unhappy?	yes	0
+1 sad means unhappy.
+2 does unhappy mean sad?	yes	0
+3 cheerful does not mean sad.
+4 does unhappy mean sad?	yes	0
+1 sad means unhappy.
+2 does sad mean unhappy?	yes	0
+3 cheerful does not mean sad.
+4 does unhappy mean sad?	yes	0
+1 sad means unhappy.
+2 does sad mean unhappy?	yes	0
+3 cheerful does not mean sad.
+4 does sad mean unhappy?	yes	0
+1 sad means unhappy.
+2 does unhappy mean sad?	yes	0
+3 cheerful does not mean sad.
+4 does sad mean unhappy?	yes	0
+1 unhappy means sad.
+2 does unhappy mean sad?	yes	0
+3 cheerful does not mean sad.
+4 does unhappy mean sad?	yes	0
+1 unhappy means sad.
+2 does sad mean unhappy?	yes	0
+3 cheerful does not mean sad.
+4 does unhappy mean sad?	yes	0
+1 unhappy means sad.
+2 does sad mean unhappy?	yes	0
+3 cheerful does not mean sad.
+4 does sad mean unhappy?	yes	0
+1 unhappy means sad.
+2 does unhappy mean sad?	yes	0
+3 cheerful does not mean sad.
+4 does sad mean unhappy?	yes	0
+1 sad means unhappy.
+2 does unhappy mean sad?	yes	0
+3 sad does not mean cheerful.
+4 does sad mean cheerful?	no	0
+1 sad means unhappy.
+2 does sad mean unhappy?	yes	0
+3 sad does not mean cheerful.
+4 does sad mean cheerful?	no	0
+1 sad means unhappy.
+2 does sad mean unhappy?	yes	0
+3 sad does not mean cheerful.
+4 does cheerful mean sad?	no	0
+1 sad means unhappy.
+2 does unhappy mean sad?	yes	0
+3 sad does not mean cheerful.
+4 does cheerful mean sad?	no	0
+1 unhappy means sad.
+2 does unhappy mean sad?	yes	0
+3 sad does not mean cheerful.
+4 does sad mean cheerful?	no	0
+1 unhappy means sad.
+2 does sad mean unhappy?	yes	0
+3 sad does not mean cheerful.
+4 does sad mean cheerful?	no	0
+1 unhappy means sad.
+2 does sad mean unhappy?	yes	0
+3 sad does not mean cheerful.
+4 does cheerful mean sad?	no	0
+1 unhappy means sad.
+2 does unhappy mean sad?	yes	0
+3 sad does not mean cheerful.
+4 does cheerful mean sad?	no	0
+1 sad means unhappy.
+2 does unhappy mean sad?	yes	0
+3 cheerful does not mean sad.
+4 does sad mean cheerful?	no	0
+1 sad means unhappy.
+2 does sad mean unhappy?	yes	0
+3 cheerful does not mean sad.
+4 does sad mean cheerful?	no	0
+1 sad means unhappy.
+2 does sad mean unhappy?	yes	0
+3 cheerful does not mean sad.
+4 does cheerful mean sad?	no	0
+1 sad means unhappy.
+2 does unhappy mean sad?	yes	0
+3 cheerful does not mean sad.
+4 does cheerful mean sad?	no	0
+1 unhappy means sad.
+2 does unhappy mean sad?	yes	0
+3 cheerful does not mean sad.
+4 does sad mean cheerful?	no	0
+1 unhappy means sad.
+2 does sad mean unhappy?	yes	0
+3 cheerful does not mean sad.
+4 does sad mean cheerful?	no	0
+1 unhappy means sad.
+2 does sad mean unhappy?	yes	0
+3 cheerful does not mean sad.
+4 does cheerful mean sad?	no	0
+1 unhappy means sad.
+2 does unhappy mean sad?	yes	0
+3 cheerful does not mean sad.
+4 does cheerful mean sad?	no	0
