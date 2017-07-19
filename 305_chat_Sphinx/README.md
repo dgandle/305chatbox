@@ -37,5 +37,15 @@ language_model_file = os.path.join(language_directory, "3214.lm")
 phoneme_dictionary_file = os.path.join(language_directory, "3214.dic")
 ```
 
+## Running the Chatbot
+
+To run the chatbot open the jupyter notebook in a tensorflow python environment.  The neural network will take a few minutes to train and you will see the training progress print to standard out.  Once the neural network finishes training, the speech recosnizer will begin waiting for voice imput.
+
+## Voice input and commands
+
+To use the speech recognizer with the neural network and add stories, speak a story (sentence) that can be found in the data set.  Whatever the speech recognizer heard will print to the screen.  If correct, speak 'validate story' to add the story to the list of stories the neural net will process.  Repeat this until you have all the stories you want to process.  When you are ready to ask a question, ask a question that can be found in the data set (and that relates to the stories you just entered).  The question will print to standard out.  If the question is correct, speak 'validate question'.  This last step will trigger the neural network to process both the stories and the question and give an answer.
+
+If you make a mistake, say 'scratch that' and the recognizer will discard the most previous input it received.  Once an input is given the recognizer will stop accepting input except 'thank you' (ends the program), 'scratch that', 'validate question' and 'validate answer'.
+
 
 
