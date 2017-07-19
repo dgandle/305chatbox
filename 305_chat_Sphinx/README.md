@@ -19,7 +19,7 @@ Group Members: Timothy Leonard, Doug Gandle, Ross Bohensky, Jeffrey Oladapo
 
 ## Setup
 
-Training data for the neural net is in the [bAbi facebook dataset](https://github.com/dgandle/305chatbox/tree/master/Data Format) format.  Edit the jupyter notebook to update the file location of the dataset:
+Training data for the neural net is in the [bAbi facebook dataset](https://github.com/dgandle/305chatbox/tree/master/Data\ Format) format.  Edit the jupyter notebook to update the file location of the dataset:
 '''
 train_stories = get_stories(open('happy_sad_train.txt'))
 test_stories = get_stories(open('happy_sad_train.txt'))
