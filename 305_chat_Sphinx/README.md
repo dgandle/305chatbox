@@ -20,18 +20,18 @@ Group Members: Timothy Leonard, Doug Gandle, Ross Bohensky, Jeffrey Oladapo
 ## Setup
 
 Training data for the neural net is in the [bAbi facebook dataset](https://github.com/dgandle/305chatbox/tree/master/Data_Format) format.  Edit the jupyter notebook to update the file location of the dataset:
-'''
+```
 train_stories = get_stories(open('happy_sad_train.txt'))
 test_stories = get_stories(open('happy_sad_train.txt'))
-'''
+```
 
-To add a language model and a dictionary for the speech recognizer edit `__init__.py` in `speech recognizer`
+To add a language model and a dictionary for the speech recognizer edit `__init__.py` in `speech recognizer` and place the `.dic` and `.lm` file in `pocketsphinx-data\en-US`.
 
-'''
+```
 language_model_file = os.path.join(language_directory, "3214.lm")
 phoneme_dictionary_file = os.path.join(language_directory, "3214.dic")
-'''
-and place the `.dic` and `.lm` file in `pocketsphinx-data\en-US`.
+```
+
 
 
 
